@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"
+            xmlns:a="http://schemas.gatorservice.ubi.com/2008/01">
+    <s:Body>
+        <NewContentIDResponse xmlns="http://gatorservice.ubi.com/2008/01">
+            <NewContentIDResult>
+                <a:ContentID>00000000-0000-0000-0000-000000000000</a:ContentID>
+                <a:ErrorCode>0</a:ErrorCode>
+                <a:ErrorString>Success</a:ErrorString>
+            </NewContentIDResult>
+        </NewContentIDResponse>
+    </s:Body>
+</s:Envelope>
